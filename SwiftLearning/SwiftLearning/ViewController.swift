@@ -13,9 +13,12 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        setUI()
     }
 
-    var 李冰 = "is a Sb"
+    func setUI() {
+        self.view.backgroundColor = .white
+    }
 
 }
 
