@@ -15,9 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    var wangkairong = @"Sb"
-    
-    
+    var wangkairong = "is a Sb"
 
 }
 
