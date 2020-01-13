@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    var 李冰 = "is a Sb"
+    var 王凯荣 = "贱人王"
 
 }
 
