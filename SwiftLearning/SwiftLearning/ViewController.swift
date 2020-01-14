@@ -18,8 +18,7 @@ class ViewController: UIViewController {
     }
 
     func setUI() {
-        self.view.backgroundColor = .black
-        
+        self.view.backgroundColor = .red
         let label = UILabel.init()
         self.view.addSubview(label)
         label.text = "I is XiaoWang!"
